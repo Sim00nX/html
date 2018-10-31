@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+body{
+    background-color: #323438;
+}
+a{
+    text-decoration-line: none;
+    color: white;
+}
+.welcome h1{
+    color: white;
+    text-align: center;
+    font-size: 36pt;
+    font-family: "Courier New"
+}
+
+.text p{
+    color: white;
+    font-size: 16pt;
+    margin-top: 100px;
+    font-family: 'Arial'
+}
+
+#p1{
+    text-align: center;
+    font-size: 22pt;
+}
+.ul-li{
+    color: white;
+    font-size: 54pt;
+    margin-top: 10%;
+    text-align: center;
+    padding: 5px;
+}
